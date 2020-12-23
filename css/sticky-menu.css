@@ -48,34 +48,28 @@ html {
     text-align: center;
     background: #fff;
 }
-.about-section {
-    height: 100%;
-    padding-top: 150px;
+.data-section {
+    /*height: 100%;*/
+    padding-top: 50px;
     text-align: center;
     background: #EFDECD;
 }
-.whatwedo-section {
+.about-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
     background: #fff;
 }
-.contact-section {
-    height: 100%;
-    padding-top: 150px;
-    text-align: center;
-    background: #EFDECD;
-}
 .navbar-default .navbar-nav > li > a:hover {
 	color: #333;
-	background-color: #F0F0F0;
+	background-color: #b3d6f2;
 }
 .navbar-default {
-    background-color: #EBFAFF;
-    border-color: #e7e7e7;
+    background-color: #0078d4;
+    border-color: #135995;
 }
 .navbar-default .navbar-nav > li > a {
-    color: #000;
+    color: #fff;
 }
 
 
